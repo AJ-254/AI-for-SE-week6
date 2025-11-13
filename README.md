@@ -1,5 +1,6 @@
 # AI Future Directions Assignment
 **Theme:** Pioneering Tomorrow’s AI Innovations 🌐🚀
+**PLP - AI for SE Specialization Week 6**
 
 ## Overview
 This assignment explores **emerging AI trends**, including **Edge AI**, **AI-IoT integration**, and **Human-AI collaboration**.  
@@ -79,10 +80,3 @@ digraph SoilMoistureAI {
 - Matplotlib
 - Kaggle Datasets: [Garbage Classification](https://www.kaggle.com/datasets/karansolanki01/garbage-classification) , [Soil - Moisture Prediction](https://www.kaggle.com/datasets/uttamkumar15802/soil-moisture-prediction)
 - Graphviz (for workflow diagram)
-
----
-
-##Author
-Juliet Asiedu
-Week 6 Assignment
-PLP AI for SE Specialization
