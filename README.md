@@ -80,6 +80,8 @@ digraph SoilMoistureAI {
 - Kaggle Datasets: [Garbage Classification](https://www.kaggle.com/datasets/karansolanki01/garbage-classification) , [Soil - Moisture Prediction](https://www.kaggle.com/datasets/uttamkumar15802/soil-moisture-prediction)
 - Graphviz (for workflow diagram)
 
+---
+
 **Author**
 Juliet Asiedu
 Week 6 Assignment
