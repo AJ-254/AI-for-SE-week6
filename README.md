@@ -81,6 +81,7 @@ digraph SoilMoistureAI {
 - Graphviz (for workflow diagram)
 
 **Author**
+
 Juliet Asiedu
 Week 6 Assignment
 AI for Software Engineering Specialization | PLP Academy
