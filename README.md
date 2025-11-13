@@ -1,4 +1,4 @@
-# Week 6: AI Future Directions Assignment
+# AI Future Directions Assignment
 **Theme:** Pioneering Tomorrow’s AI Innovations 🌐🚀
 
 ## Overview
@@ -82,4 +82,5 @@ digraph SoilMoistureAI {
 
 **Author**
 Juliet Asiedu
+Week 6 Assignment
 AI for Software Engineering Specialization | PLP Academy

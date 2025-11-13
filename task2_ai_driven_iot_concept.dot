@@ -1,0 +1,18 @@
+digraph SoilMoistureAI {
+    rankdir=LR;
+    node [shape=box, style=filled, color="#f059e3"];
+
+    Sensor [label="Soil Moisture Sensor\nCollects moisture data"];
+    DataAcquisition [label="Data Acquisition\nReceive sensor readings"];
+    Preprocessing [label="Preprocessing\nClean, normalize, feature engineering"];
+    AI_Model [label="AI Model\nPredict crop yield"];
+    Output [label="Output\nRecommended irrigation or alerts"];
+    Farmer [label="Farmer/IoT System\nReceives predictions"];
+
+    // Define flow
+    Sensor -> DataAcquisition -> Preprocessing -> AI_Model -> Output -> Farmer;
+
+    // Optional feedback loop
+    Farmer -> Sensor [label="Adjust irrigation based on predictions", style=dashed];
+}
+//dot -Tpng task2_ai_driven_iot_concept.dot -o task2_ai_driven_iot_concept.png
