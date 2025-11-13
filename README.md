@@ -82,7 +82,7 @@ digraph SoilMoistureAI {
 
 ---
 
-**Author**
+##Author
 Juliet Asiedu
 Week 6 Assignment
 PLP AI for SE Specialization
